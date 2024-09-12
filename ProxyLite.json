@@ -8,7 +8,18 @@
         "hhk.prod.ondemandconnectivity.com",
         "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
         "ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
-        "ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org"
+        "ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org",
+        "access-point.cloudmessaging.edge.microsoft.com",
+        "sydney.bing.com",
+        "browser.pipe.aria.microsoft.com",
+        "www.bingapis.com",
+        "events.data.microsoft.com",
+        "prod.do.dsp.mp.microsoft.com",
+        "functional.events.data.microsoft.com",
+        "designer.microsoft.com",
+        "edge.microsoft.com",
+        "copilot.microsoft.com",
+        "edgeservices.bing.com"
       ]
     },
     {
