@@ -19,12 +19,14 @@
         "designer.microsoft.com",
         "edge.microsoft.com",
         "copilot.microsoft.com",
-        "edgeservices.bing.com"
+        "edgeservices.bing.com",
+        "fscdn.eppo.cloud",
+        "imagedelivery.net"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
+        ".perplexity.ai",
         ".wxapp.tc.qq.com"
       ]
     },
