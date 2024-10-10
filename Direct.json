@@ -10,13 +10,19 @@
     {
       "domain_suffix": [
         ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
+        ".wxapp.tc.qq.com",
+        ".futuhn.com",
+        ".futunn.com",
+        ".longbridge.global"
       ]
     },
     {
       "domain_keyword": [
         "cherrytv",
-        "longbridge"
+        "longbridge",
+        "futuhn",
+        "futunn",
+        "unraid"
       ]
     },
     {
